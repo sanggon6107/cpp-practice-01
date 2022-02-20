@@ -42,5 +42,8 @@
     <ClCompile Include="conditional.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="regex_iterator.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

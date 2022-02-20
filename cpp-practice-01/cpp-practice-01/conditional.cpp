@@ -24,4 +24,6 @@ int main()
 	//template <bool _Test, class _Ty1, class _Ty2>
 	//using conditional_t = typename conditional<_Test, _Ty1, _Ty2>::type;
 
+	std::cout << a << std::endl;
+
 }
